@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#0f3a4d"/>
+  <path d="M0 360 C120 330 200 400 300 372 C380 350 440 360 512 340 L512 512 L0 512 Z" fill="#1d6a7e"/>
+  <path d="M0 410 C140 385 230 440 340 415 C420 397 470 405 512 392 L512 512 L0 512 Z" fill="#2a8ca0"/>
+  <!-- sail -->
+  <path d="M256 110 L256 300 L150 300 Z" fill="#f6f2e9"/>
+  <path d="M276 150 L276 300 L360 300 Z" fill="#e9e0cf"/>
+  <rect x="252" y="100" width="8" height="210" rx="4" fill="#7a8c5a"/>
+</svg>
